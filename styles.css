@@ -1,7 +1,7 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:wrap;
+	flex-flow:row-reverse wrap;
 }
 .item{
 	width:100px;
